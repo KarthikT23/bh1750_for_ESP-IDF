@@ -1,5 +1,5 @@
 # bh1750_for_ESP-IDF
-An updated and simplified BH1750 library for esp-idf v4.4+ 
+An updated and simplified BH1750 library for esp-idf v4.4+ <br>
 This library provides support for the ambient light sensor which uses I2C
 
 This library currently supports the esp-idf platform only [v4.4+]
